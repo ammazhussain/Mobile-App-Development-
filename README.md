@@ -32,9 +32,9 @@ This repository contains all the lab journal files for the **Mobile App Developm
 
 ## 🙋‍♂️ Author
 
-- **Name:** Chaudhary Ammaz Hussain Gujjar
+- **Name:** Chaudhary Ammaz Hussain
 
-- **Enrollment #:** 01-134222-089
+- **Enrollment #:** 01-134222-037
 
 ---
 
